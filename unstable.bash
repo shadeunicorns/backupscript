@@ -3,12 +3,12 @@
 
 # superbackup.bash
 # Purpose: powerful backup script
-#
+# Not Working Use backupall.bash
 # 
 #
 # Author: *** shadeunicorns ***
 # Date: *** 10 July 2019***
-# Revised: *** 10 July 2019 ***
+# Revised: *** 111 october 2019 ***
 
 ####### declare color variable for color coding the text
 RED='\033[0;31m'
