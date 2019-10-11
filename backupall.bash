@@ -1,14 +1,14 @@
 #!/bin/bash
 
 
-# backupVM.bash
+# backupall.bash
 # Purpose: Creates backup of all vm's both assignment and regular(vm1,2,3)
 #
 # 
 #
 # Author: *** shadeunicorns ***
 # Date: *** June 5th 2019 ***
-# Revised: *** June 6th 2019 ***
+# Revised: *** October 11th 2019 ***
 
 if [ $PWD != "/root/bin" ] # only runs if in root's directory
 then
